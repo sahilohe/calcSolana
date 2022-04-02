@@ -5,3 +5,7 @@
 
 clone the repo and the 'cd' in it and run `anchor test`
 make sure you have every dependencies installed!
+
+the desired out in my terminal 
+![Image](https://gateway.pinata.cloud/ipfs/QmaDcTk2tTMrYhJyNgdCckHEZmqRTncAtX5soCsdVHAzTM)
+
